@@ -13,6 +13,7 @@
 
 .output {
 	grid-column: 1 / -1;
+	font-size: 5rem;
 }
 
 .calculator-grid > button {
